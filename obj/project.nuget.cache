@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1G5Y6Zh2UKf+Qia0uu6uc4cg3nXxWHgBJOgrr6JAVrQCJ2Tcj14S+UeXvqU91pxwvJZZKb0UKsKyeD5m0EDzA==",
+  "success": true,
+  "projectFilePath": "C:\\adapterdesign\\adapterdesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\csv\\2.0.87\\csv.2.0.87.nupkg.sha512",
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
